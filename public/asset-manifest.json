@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d956512.css",
+    "main.js": "/static/js/main.f5646206.js",
+    "static/media/carousal1.png": "/static/media/carousal1.8b1c593406c8d5edb870.png",
+    "static/media/carousal3.png": "/static/media/carousal3.fb6aed5b6f5cb542ecae.png",
+    "static/media/carousal2.png": "/static/media/carousal2.16eccd2108124172a9ed.png",
+    "static/media/card_file.png": "/static/media/card_file.4ca2f619d2a83f53d80d.png",
+    "static/media/card_signIU.png": "/static/media/card_signIU.585055946e00fc895780.png",
+    "static/media/card_uplode.png": "/static/media/card_uplode.ce63053f068b60bad7f9.png",
+    "index.html": "/index.html",
+    "main.9d956512.css.map": "/static/css/main.9d956512.css.map",
+    "main.f5646206.js.map": "/static/js/main.f5646206.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d956512.css",
+    "static/js/main.f5646206.js"
+  ]
+}
